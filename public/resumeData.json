@@ -171,12 +171,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Parametricos",
-        "category":"Web App for 3d constructon modeling",
-        "image":"parametricos.png",
-        "url":"https://parametricos.com/"
-      },
-      {
         "title":"Inferstat",
         "category":"Web App for analytical research services",
         "image":"inferstat.png",
