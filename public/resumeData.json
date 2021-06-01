@@ -171,6 +171,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"ApiAndMe",
+        "category":"API marketplace where user can also make apis",
+        "image":"apiAndMe.png",
+        "url":"https://apiandme.com/"
+      },
+      {
         "title":"Inferstat",
         "category":"Web App for analytical research services",
         "image":"inferstat.png",
