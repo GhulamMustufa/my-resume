@@ -15,7 +15,7 @@
       "zip": "74800"
     },
     "website": "#",
-    "resumedownload":"https://drive.google.com/file/d/1zsrUmpdnziJWs_Tb48eCa1P8O4TT30Zo/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/10RaUYJAhFfZGVZ4tpi45UF77GzgPThDX/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -67,6 +67,18 @@
     ],
     "work":[
       {
+        "company":"Dastgyr",
+        "title":"Mobile Developer",
+        "years":"June 2021 - Mar 2022",
+        "description":"Worked on different mobile applications in react native for retailers, picker, driver and contribute to their growth"
+      },
+      {
+        "company":"Inaequo Solutions",
+        "title":"Software Engineer",
+        "years":"June 2021 - Mar 2022",
+        "description":"Worked on several projects for clients in react native, nodejs, redux"
+      },
+      {
         "company":"Freelancer",
         "title":"MERN Stack Developer",
         "years":"Jan 2019 - Present",
@@ -75,7 +87,7 @@
       {
         "company":"Cloud Coherence",
         "title":"ReactJS Developer",
-        "years":"Nov 2020 - Present",
+        "years":"Nov 2020 - Mar 2021",
         "description":"Worked on several projects in reactjs, redux and aws serverless technologies,dynamodb, lambda functions, etc.."
       },
       {
