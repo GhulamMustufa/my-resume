@@ -15,7 +15,7 @@
       "zip": "74800"
     },
     "website": "#",
-    "resumedownload":"https://drive.google.com/file/d/10RaUYJAhFfZGVZ4tpi45UF77GzgPThDX/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1x3fPRRF5HZXW3VsEZzEOMvdSAboQ3eAu/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -66,6 +66,12 @@
       }
     ],
     "work":[
+      {
+        "company":"Udhaar Book",
+        "title":"ReactJs/React Native Developer",
+        "years":"June 2022 - Present",
+        "description":"Working on different features of Udhaar Book mobile application to make seamless experience for the customers for managing their digital khata"
+      },
       {
         "company":"Dastgyr",
         "title":"Mobile Developer",
